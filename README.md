@@ -9,13 +9,5 @@ P.S. - I didn't get the job at Google :wink:
 ## Contributors
 Many thanks to the following for their contributions:
 
-* [B1Z0N](https://github.com/B1Z0N)
-* [dichen001](https://github.com/dichen001)
-* [tsaoyu](https://github.com/tsaoyu)
-* [srashee](https://github.com/srashee)
-* [emadpres](https://github.com/emadpres)
-* [AurelienLourot](https://github.com/AurelienLourot)
-* [josephharrington](https://github.com/josephharrington)
-* [MuruganViswanathan](https://github.com/MuruganViswanathan)
-* [Damercy](https://github.com/Damercy)
-* [mgoutham](https://github.com/mgoutham)
+* [B1Z0N](https://github.com/carlcastanas)
+
