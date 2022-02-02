@@ -1,5 +1,5 @@
 # C++ Syntax Cheat Sheet
-[Part 2 with phot](./)
+[Part 2 with phot](https://github.com/carlcastanas/CPP-SUMMARY/blob/main/Data%20Structures%20and%20Algorithms.md)
 ## Preface
 Since the C++ language varies so heavily between versions (e.g. C++0x, C++11, C++17, etc.), I will preface this cheat sheet by saying that the majority of the examples here target C++0x or c++11, as those are the versions that I am most familiar with. I come from the aerospace industry (embedded flight software) in which we purposefully don't use the latest technologies for safety reasons, so most of the code I write is in C++0x and sometimes C++11. Nevertheless, the basic concepts of C++ and object oriented programming still generally apply to both past and future versions of the language.
 
